@@ -1,0 +1,8 @@
+public class Ainoaran {
+  
+  public static void main (Sring[] args) {
+     String variable = "Es una variable";
+        final String constante = "Es una constante";
+    System.out.println("¡Hola, Java!");
+    }
+ }
